@@ -1,0 +1,41 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  .container {
+    margin: 20px auto;
+    width: 300px;
+  }
+  
+  input[type="text"] {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #af4ca0;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 5px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .completed {
+    text-decoration: line-through;
+  }
